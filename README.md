@@ -7,19 +7,19 @@ If a user tries to access the endpoint of all users, it may throw a forbidden er
 I have used the jwt tokens and passed them into the token payload.
 
 # Prequisites
-  Node JS
-  Express
-  JSONWEBTOKENS
-  bcrypt
-  nodemon
-  mongoose
-  MongoDB
+ Node JS,
+ Express,
+ JSONWEBTOKENS,
+ bcrypt,
+ nodemon,
+ mongoose,
+ MongoDB
 
 # Installations Guide
-  Install Node JS
-  Clone this repo
-  npm install 
-  npm start
+  Install Node JS,
+  Clone this repo,
+  npm install,
+  npm start,
 
 
 ## User Signup and Login
