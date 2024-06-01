@@ -13,6 +13,7 @@ const UserSchema = new mongoose.Schema({
     },
     userType:{
         type: String, 
+        enum: ['admin', 'user'],   // only will allow admin or user
         default: 'user'
     }
 });
